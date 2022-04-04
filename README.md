@@ -53,5 +53,10 @@
   <a href="https://www.linkedin.com/in/sebasti%C3%A3o-sim%C3%A3o-643925235/"><img src="https://img.shields.io/badge/-sebastião-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:sebastiaosimaoliveira@gmail.com"><img src="https://img.shields.io/badge/-sebastiaosimaoliveira@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/sebs722/"><img src="https://img.shields.io/badge/-@sebs722-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+
+ 
+</p><br>
+<p align="center">
+    <img src="Thank_yo.png" min-width="500px" max-width="500px" height="136" width="400" align="right" alt="Computer Daniel Farias">
 </p><br>
 
