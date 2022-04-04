@@ -17,9 +17,9 @@
    - 📈  Improve My Skills
 <p/>
 
-### 📚  Stack I Work With
+<h1 align ="center">📚  Stack I Work With</h1>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/html-FC490B?&style=for-the-badge&logo=html5&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/css-264DE4?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
@@ -28,7 +28,7 @@
   <img src ="https://img.shields.io/badge/node.js-87C111?style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
   <img src ="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25"/>
 </p>
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/github-171516?style=for-the-badge&logo=github&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/react-61DBFB.svg?&style=for-the-badge&logo=react&logoColor=white" height="25"/>
