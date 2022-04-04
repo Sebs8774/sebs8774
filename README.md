@@ -2,7 +2,7 @@
 <h1 align ="center">👋 Hello! I'm Sebastião Simão</h1>
 
 <img src="https://miro.medium.com/max/1400/1*GKSUn8nIBnFy07luMC5wlw.gif" min-width="500px" max-width="500px" height="400" width="450" align="right" alt="Computer Daniel Farias">
-
+<br />
 <h3> Front-end Developer & Systems Analysis and Development</h3>
 
 ### 🧑🏻 About me
