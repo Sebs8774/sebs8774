@@ -6,7 +6,7 @@
 <h3> Front-end Developer & Systems Analysis and Development</h3>
 
 ### 🧑🏻 About me
-- ⏳  I'm 19 years old
+- ⏳  I'm 20 years old
 - 💙  My preferred language is Javascript
 - 🎮  my hobby is watch
 - 🌱  I’m currently learning *Angular and Typescript*
