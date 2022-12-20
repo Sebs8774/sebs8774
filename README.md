@@ -6,13 +6,14 @@
 <h3> Front-end Developer & Systems Analysis and Development</h3>
 
 ### 🧑🏻 About me
-- ⏳  I'm 20 years old
-- 💙  My preferred language is Javascript
-- 🎮  my hobby is watch
+- ⏳  I'm 20 years old.
+- 💙  My preferred language is Javascript.
+- 🎮  My hobby is watching movies, series and anime!
+- 📚 
 - 🌱  I’m currently learning *Angular and Typescript*
 
 ### 📊  2022 Goals:
-   - 📂  Expand my portfolio
+   - 📂  Expand my portfolio.
    - 🤝  Get a Job
    - 📈  Improve My Skills
 <p/>
